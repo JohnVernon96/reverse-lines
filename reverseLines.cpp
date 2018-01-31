@@ -1,8 +1,10 @@
 // File        : reverseLines1.cpp
 // Author      : John Carvajal
-// Description : This program will read in line from a file, store
-//               it in a string, reverse the contents of the string,
-//               and then print the modified string.
+// Description : This program will read in a file passed in as a command line argument,
+//	    	 store a line in a string, reverse the contents of the string,
+//               and then print the modified string. It will then loop
+//               this process until all lines of the file have been 
+//		 read and reversed. 
 // Usage       : Pass the file name in with the command line argument
 
 #include <iostream>
